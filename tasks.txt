@@ -1,0 +1,26 @@
+# --- Easy (1 to 3 steps) ---
+"Go to the shelf."
+"Pick up the red cup."
+"Put the book in the box."
+
+
+# --- Medium (needs finding objects and multi-step planning) ---
+"Pick up the key and hold it."
+"Move the key to the shelf."
+"Put the red cup in the drawer."
+
+
+
+ # --- Hard (planning around the one-item-at-a-time limit) ---
+"Put the red cup, the book, and the key all in the box."
+"Swap the positions of the book and the key."
+
+
+# --- Reasoning (needs object properties) ---
+"Move all fragile objects to the shelf."
+
+
+# --- Trap tasks (the correct behavior is to fail gracefully) ---
+"Pick up the laptop."
+"Put the book on the roof."
+
